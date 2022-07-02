@@ -1,0 +1,1 @@
+{"thingId": "device2", "type": "telemetry", "timeStamp": 1656759138935, "hwVer": "1.0", "swVer": "1.0", "contractVer": "1.0", "current": {"geo0": {"lat": 56.020424, "lon": 49.665864}, "geo1": {"lat": 56.024061104015566, "lon": 49.6621063980473}}, "isWatering": true, "isWorking": true}
